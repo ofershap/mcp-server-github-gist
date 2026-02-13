@@ -6,6 +6,10 @@
 
 > MCP server to create, read, update, list, and search GitHub Gists from your IDE. The GitHub MCP server focuses on repos and issues — this one is all about Gists.
 
+<p align="center">
+  <img src="assets/demo.gif" alt="mcp-server-github-gist demo" width="600" />
+</p>
+
 ## Tools
 
 | Tool           | What it does                              |
