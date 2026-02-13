@@ -1,10 +1,18 @@
 # mcp-server-github-gist
 
 [![npm version](https://img.shields.io/npm/v/mcp-server-github-gist.svg)](https://www.npmjs.com/package/mcp-server-github-gist)
+[![npm downloads](https://img.shields.io/npm/dm/mcp-server-github-gist.svg)](https://www.npmjs.com/package/mcp-server-github-gist)
 [![CI](https://github.com/ofershap/mcp-server-github-gist/actions/workflows/ci.yml/badge.svg)](https://github.com/ofershap/mcp-server-github-gist/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> MCP server to create, read, update, list, and search GitHub Gists from your IDE. The GitHub MCP server focuses on repos and issues — this one is all about Gists.
+Create, read, update, and search GitHub Gists without leaving your AI assistant. The official GitHub MCP server handles repos and issues — this one fills the Gist gap.
+
+```
+You: "Save this code snippet as a gist called 'auth-middleware.ts'"
+AI:  ✅ Created secret gist: https://gist.github.com/abc123
+```
+
+> Works with Claude Desktop, Cursor, and VS Code Copilot.
 
 ![Demo](assets/demo.gif)
 
