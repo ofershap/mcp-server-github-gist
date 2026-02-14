@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-github-gist",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "MCP server to create, read, update, list, and search GitHub Gists from your IDE",
   "type": "module",
   "bin": {
