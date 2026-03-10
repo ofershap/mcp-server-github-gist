@@ -16,6 +16,10 @@ AI:  ✅ Created secret gist: https://gist.github.com/abc123
 
 ![MCP server GitHub Gist demo — creating and listing gists from Claude Desktop](assets/demo.gif)
 
+<a href="https://glama.ai/mcp/servers/ofershap/mcp-server-github-gist">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/ofershap/mcp-server-github-gist/badge" alt="mcp-server-github-gist MCP server" />
+</a>
+
 ## Tools
 
 | Tool           | What it does                              |
